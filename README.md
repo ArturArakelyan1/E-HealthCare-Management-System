@@ -49,4 +49,4 @@ To use the E-HealthCare Management System, follow the steps below:
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/ArturArakelyan1/e-healthcare-management-system.git
+git clone https://github.com/ArturArakelyan1/E-HealthCare-Management-System.git
